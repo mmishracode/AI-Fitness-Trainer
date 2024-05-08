@@ -1,5 +1,7 @@
 ---
-title: Gradio Squats
+title: AI Fitness Trainer: Deep
+Learning MediaPipe Pose
+Estimation for Squat Analysis
 emoji: 🏢
 colorFrom: pink
 colorTo: gray
@@ -10,4 +12,4 @@ pinned: false
 license: mit
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Live Demo: https://huggingface.co/spaces/manasmishra17/AI_Trainer_CV_Final_Project
