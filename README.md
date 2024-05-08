@@ -8,5 +8,7 @@ sdk_version: 3.40.1
 app_file: app.py
 pinned: false
 license: mit
----
+
 Live Demo at https://huggingface.co/spaces/manasmishra17/AI_Trainer_CV_Final_Project
+---
+
