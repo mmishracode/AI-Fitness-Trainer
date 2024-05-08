@@ -1,7 +1,5 @@
 ---
-title: AI Fitness Trainer: Deep
-Learning MediaPipe Pose
-Estimation for Squat Analysis
+title: AI Fitness Trainer: Deep Learning MediaPipe Pose Estimation for Squat Analysis
 emoji: 🏢
 colorFrom: pink
 colorTo: gray
